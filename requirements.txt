@@ -1,1 +1,8 @@
--Uqq fastai duckduckgo_search
+fastcore
+duckduckgo_search
+fastdownload
+fastai
+numpy
+pandas
+Pillow  # For PIL (Python Imaging Library)
+IPython
