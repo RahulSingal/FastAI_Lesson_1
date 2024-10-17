@@ -9,6 +9,12 @@
 import library # Importing the library.py file
 import functions # Importing the functions.py file
 
+#  -------------------------------------------------------------------------------------------
+# | Function Name:      main
+# | Description:        TBD
+# | Input Parameters:   TBD
+# | Returns:            TBD
+#  -------------------------------------------------------------------------------------------
 def main():
 
   print("Hello from Main")
